@@ -1890,7 +1890,6 @@
 		background-color: transparent;
 		border: solid 1px !important;
 		border-color: rgba(255, 255, 255, 0.15) !important;
-		border-radius: 3em;
 		color: #ffffff !important;
 		cursor: pointer;
 		display: inline-block;
@@ -1926,7 +1925,6 @@
 			-ms-transition: opacity 0.2s ease, -ms-transform 0.2s ease;
 			transition: opacity 0.2s ease, transform 0.2s ease;
 			background: #ffffff;
-			border-radius: 3em;
 			content: '';
 			height: 100%;
 			left: 0;
