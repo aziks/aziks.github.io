@@ -2692,6 +2692,7 @@
 				ul.icons li > a, ul.icons li > span {
 					border: 0;
 					text-decoration: none;
+					font-size: xx-large;
 				}
 
 					ul.icons li > a:before, ul.icons li > span:before {
