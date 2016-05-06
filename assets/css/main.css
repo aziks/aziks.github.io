@@ -2587,7 +2587,6 @@
 /* Image */
 
 	.image {
-		border-radius: 0.25em;
 		border: 0;
 		display: inline-block;
 		position: relative;
@@ -3922,7 +3921,7 @@
 	padding-top: 30px; height: 0; overflow: hidden;
 	margin-bottom: 30px;
 }
- 
+
 .video-container iframe,
 .video-container object,
 .video-container embed {
